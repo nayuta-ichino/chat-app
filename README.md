@@ -47,7 +47,7 @@
 
 | Column  | Type       | Option
 | ------- | ---------- | ------------------------------ |
-| content | string     |                                |
+| c | string     |                                |
 | user    | references | null: false, foreign_kye: true |
 | room    | references | null: false, foreign_kye: true |
 
